@@ -5,12 +5,7 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "emitDecoratorMetadata": true,
-    "experimentalDecorators": true,
-    "moduleResolution": "node"
   },
-  "include": [
-    "src/**/*.ts",
-    "test/**/*.ts"
-  ]
+  
+  "include": ["src/**/*.ts", "test/**/*.ts"]
 }
